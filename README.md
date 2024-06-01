@@ -3,6 +3,7 @@
 ## Introduction:
 
 This notebook is a simple example of applying the yolov8 pretrain model to train a person recognizer.
+![Pipeline](pipeline.png)
 
 ## Usage:
 This notebook includes the following main part:
